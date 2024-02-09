@@ -6,3 +6,6 @@
     --bs-font_light: rgba(255, 255, 255, 1);
   }
   
+  .debug{
+    border: dashed black;
+  }
